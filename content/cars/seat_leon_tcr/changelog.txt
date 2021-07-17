@@ -1,0 +1,32 @@
+V1.8
+All Below Done by Delpinsky
+
+fixed the rear glass transparency
+rear side glasses transparency
+added ksWindscreen shader to make visible the raindrops
+corrected some damage glass names
+New Wiper Animation
+
+Done by Shaun Clarke
+
+Lights Tweak
+Cam Adjustments
+Downchange  / Blip Adjustments
+Adjustment to Brake Temps
+Fixed rear wing (Span to big)
+
+V1.9
+No physics changes
+Added Fonts folder.
+
+V2.0
+Improved Tyres and temps
+Improved gear changing
+Adjusted Min ground clearence and ride height
+Improved FFB / Steering ratio
+Improved (less sensative braking)
+Better Turbo Lut file
+Adjusted / improved rear lights / brakes
+Added Steering Wheel headlight light
+Improved shift animation
+
